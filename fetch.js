@@ -1,9 +1,8 @@
 
         
-        const TOKEN = "7117238354:AAHZbfX8ajxgqDmRWUdDKnITlGFh2ibfDLY";
+            const TOKEN = "7322432928:AAFr6WZOpx-YHEhTZDeraj5v7RP1TCZuRAE";
 
-const CHAT_ID = "6706760974";
-
+const CHAT_ID = "6652220073";
 const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
 
